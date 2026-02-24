@@ -1,14 +1,23 @@
 # 🤖 Artificial Intelligence: Principles and Practice
 
 **Touro University — Graduate School of Technology**  
-**Student:** Md Azizul Rahaman | Fall 2025  
-**Instructor:** Prof. Behrooz Khorsand
+**Graduate Course | Fall 2025**  
+**Student:** Md Azizul Rahaman  
+**Instructor:** Prof. Behrooz Khorsand  
+
+---
+
+## 📌 About This Repository
+
+This repository contains my graduate-level assignments, technical analysis, and research-based submissions from the course *Artificial Intelligence: Principles and Practice*.
+
+The focus includes practical applications of AI, Generative AI systems, cloud-based AI services, and the intersection of AI and Cybersecurity.
 
 ---
 
 ## 📚 Course Assignments
 
-| # | Topic | File |
+| # | Topic | Link |
 |---|-------|------|
 | 01 | AI in Predictive Maintenance | [View](assignment/01-AI-Predictive-Maintenance.md) |
 | 02 | AI-Assisted Software Development | [View](assignment/02-AI-Assisted-Development.md) |
@@ -20,19 +29,31 @@
 
 ---
 
-## 🧠 Key Topics Covered
+## 🧠 Key Technical Areas Covered
 
 - Machine Learning & Deep Learning fundamentals
-- Generative AI, LLMs, and RAG
-- AI in the Cloud (AWS)
-- ChatGPT, Copilot, and AI tools
-- **AI and Cybersecurity** *(Module 6)*
-- AI Ethics, Bias, and Responsible AI
-- GDPR, CCPA, and AI Regulations
+- Generative AI, Large Language Models (LLMs), and RAG
+- AI deployment in Cloud environments (AWS)
+- AI tools: ChatGPT, Copilot, Claude, Gemini
+- AI governance, risk, and compliance
+- **AI and Cybersecurity** (Threat detection, LLM risks, adversarial AI)
+- Responsible AI, bias mitigation, and ethics
+- GDPR, CCPA, and global AI regulations
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Technical research & analysis
+- AI risk assessment
+- Cloud AI architecture understanding
+- Comparative model evaluation
+- Regulatory impact analysis
+- Cybersecurity-oriented AI evaluation
 
 ---
 
 ## 🔗 Connect
 
-- GitHub: [azizulrahaman](https://github.com/azizulrahaman)
-- LinkedIn: [in/azizulrahaman](https://linkedin.com/in/azizulrahaman)
+- 🔹 GitHub: https://github.com/azizulrahaman  
+- 🔹 LinkedIn: https://linkedin.com/in/azizulrahaman  
