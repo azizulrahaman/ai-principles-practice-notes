@@ -1,9 +1,7 @@
 # 🤖 Artificial Intelligence: Principles and Practice
 
 **Touro University — Graduate School of Technology**  
-**Graduate Course | Fall 2025**  
-**Student:** Md Azizul Rahaman  
-**Instructor:** Prof. Behrooz Khorsand  
+**Md Azizul Rahaman  
 
 ---
 
