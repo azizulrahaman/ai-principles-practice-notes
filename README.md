@@ -1,7 +1,7 @@
 # 🤖 Artificial Intelligence: Principles and Practice
 
 **Touro University — Graduate School of Technology**  
-**Md Azizul Rahaman  
+**Md Azizul Rahaman**  
 
 ---
 
